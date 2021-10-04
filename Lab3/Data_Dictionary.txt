@@ -1,0 +1,11 @@
+Survived        Выжил (0 = Нет; 1 = Да)
+Pclass          Класс каюты
+Name            Имя
+Sex             Пол
+Age             Возраст
+SibSp           Кол-во братьев/сестер/супругов на борту
+Parch           Кол-во детей/родителей на борту
+Ticket          Номер билета
+Fare            Цена билета
+Cabin           Палуба
+Embarked        Порт посадки (C = Cherbourg; Q = Queenstown; S = Southampton)
